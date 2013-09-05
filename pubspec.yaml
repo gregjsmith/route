@@ -7,11 +7,9 @@ environment:
   sdk: '>=0.5.12'
 dependencies:
   logging: any
-  uri_template:
-    path: /Users/justinfagnani/Documents/Projects/urit2
+  uri_template: any
 dev_dependencies:
   browser: any
-  fancy_syntax: any
   mdv: any
   observe: any
   unittest: any
